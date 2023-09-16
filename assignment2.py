@@ -756,7 +756,7 @@ print(runtime_test4())#time for heap based + no destination:
 """RESULTS FROM THE RUNTIME TESTS"""
 """ I used graph1 to get theses results as when I run my functions using graph2 I get an indexing/key error,
     and I don't get this error when I use the graph1.
-    Unfortunately because of this the results I have do not really give insight into which implementation may be better.
+    Unfortunately because of this the results I have do not really give insight into which implementation may be better.(too small of a sample)
 """
 #RESULTS FROM TERMINAL, Printed here:
 # |V| = 5; |E| = 7
